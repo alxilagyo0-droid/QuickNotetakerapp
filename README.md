@@ -1,1 +1,1 @@
-# QuickNotetakerapp
+# QuickNotes
